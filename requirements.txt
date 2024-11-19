@@ -1,0 +1,9 @@
+streamlit==1.37.1
+langchain
+langchain-community
+langchain-openai
+unstructured
+unstructured[pdf]
+openai
+chromadb
+tiktoken
